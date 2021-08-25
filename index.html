@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Document title -->
-    <title>Nombre Empresa</title>
+    <title>EsaApp</title>
     <!-- Stylesheets & Fonts -->
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i%7CRajdhani:400,600,700"
@@ -36,12 +36,12 @@
         <div class="container">
             <div class="top-header d-none d-sm-flex justify-content-between align-items-center">
                 <div class="contact">
-                    <a href="tel:503xxxxxxxx" class="tel"><i class="fa fa-phone" aria-hidden="true"></i>tel:503xxxxxxxx</a>
+                    <a href="tel:503xxxxxxxx" class="tel"><i class="fa fa-phone" aria-hidden="true"></i>tel:50376876868</a>
                     <a href="mailto:informacio@mail.com"><i class="fa fa-envelope"
-                            aria-hidden="true"></i>informacio@mail.com</a>
+                            aria-hidden="true"></i>pc15020@ues.edu.sv</a>
                 </div>
                 <nav class="d-flex aic">
-                    <a href="#" class="login"><i class="fa fa-user" aria-hidden="true"></i>Ingresar</a>
+                    <!--a href="#" class="login"><i class="fa fa-user" aria-hidden="true"></i>Ingresar</a-->
                     <ul class="nav social d-none d-md-flex">
                         <li><a href="https://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.google.com"><i class="fa fa-google-plus"></i></a></li>
@@ -57,7 +57,7 @@
                         aria-expanded="false" aria-label="Toggle navigation"><span
                             class="navbar-toggler-icon"></span></button>
                     <a class="login-icon d-sm-none" href="#"><i class="fa fa-user"></i></a>
-                    <a class="cart" href="#"><i class="fa fa-shopping-cart"></i></a>
+                    <!--a class="cart" href="#"><i class="fa fa-shopping-cart"></i></a-->
                 </div>
                 <a class="search-icon d-none d-md-block" href="#"><i class="fa fa-search"></i></a>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
@@ -355,66 +355,6 @@
         </div>
     </section>
     <!-- Trust End -->
-    <!-- Pricing Start -->
-    <section class="pricing-table">
-        <div class="container">
-            <div class="title text-center">
-                <h6 class="title-primary">Our prices</h6>
-                <h1 class="title-blue">Price Table List</h1>
-            </div>
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <div class="single-pricing text-center" data-aos="fade-up" data-aos-delay="0"
-                        data-aos-duration="600">
-                        <span>Monthly</span>
-                        <h2>Starter</h2>
-                        <p class="desc">Here goes some description</p>
-                        <p class="price">$39.00</p>
-                        <p>Create excepteur sint occaecat cupidatat non proident</p>
-                        <a href="#" class="btn btn-primary">Buy Now</a>
-                        <svg viewBox="0 0 170 193">
-                            <path fill-rule="evenodd" fill="rgb(238, 21, 21)"
-                                d="M39.000,31.999 C39.000,31.999 -21.000,86.500 9.000,121.999 C39.000,157.500 91.000,128.500 104.000,160.999 C117.000,193.500 141.000,201.000 150.000,183.000 C159.000,165.000 172.000,99.000 167.000,87.000 C162.000,75.000 170.000,63.000 152.000,45.000 C134.000,27.000 128.000,15.999 116.000,11.000 C104.000,6.000 89.000,-0.001 89.000,-0.001 L39.000,31.999 Z" />
-                        </svg>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-pricing text-center" data-aos="fade-up" data-aos-delay="300"
-                        data-aos-duration="600">
-                        <span>Monthly</span>
-                        <h2>Starter</h2>
-                        <p class="desc">Here goes some description</p>
-                        <p class="price">$39.00</p>
-                        <p>5GB Storage Space</p>
-                        <p>20GB Monthly Bandwidth</p>
-                        <p>My SQL Databases</p>
-                        <p>100 Email Account</p>
-                        <a href="#" class="btn btn-primary">Buy Now</a>
-                        <svg viewBox="0 0 170 193">
-                            <path fill-rule="evenodd" fill="rgb(238, 21, 21)"
-                                d="M39.000,31.999 C39.000,31.999 -21.000,86.500 9.000,121.999 C39.000,157.500 91.000,128.500 104.000,160.999 C117.000,193.500 141.000,201.000 150.000,183.000 C159.000,165.000 172.000,99.000 167.000,87.000 C162.000,75.000 170.000,63.000 152.000,45.000 C134.000,27.000 128.000,15.999 116.000,11.000 C104.000,6.000 89.000,-0.001 89.000,-0.001 L39.000,31.999 Z" />
-                        </svg>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-pricing text-center" data-aos="fade-up" data-aos-delay="600"
-                        data-aos-duration="600">
-                        <span>Monthly</span>
-                        <h2>Starter</h2>
-                        <p class="desc">Here goes some description</p>
-                        <p class="price">$39.00</p>
-                        <p>Create excepteur sint occaecat cupidatat non proident</p>
-                        <a href="#" class="btn btn-primary">Buy Now</a>
-                        <svg viewBox="0 0 170 193">
-                            <path fill-rule="evenodd" fill="rgb(238, 21, 21)"
-                                d="M39.000,31.999 C39.000,31.999 -21.000,86.500 9.000,121.999 C39.000,157.500 91.000,128.500 104.000,160.999 C117.000,193.500 141.000,201.000 150.000,183.000 C159.000,165.000 172.000,99.000 167.000,87.000 C162.000,75.000 170.000,63.000 152.000,45.000 C134.000,27.000 128.000,15.999 116.000,11.000 C104.000,6.000 89.000,-0.001 89.000,-0.001 L39.000,31.999 Z" />
-                        </svg>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Pricing End -->
     <!-- Testimonial and Clients Start -->
     <section class="testimonial-and-clients">
         <div class="container">
@@ -537,7 +477,7 @@
         <div class="footer-widgets">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-4">
                         <div class="single-widget contact-widget" data-aos="fade-up" data-aos-delay="0">
                             <h6 class="widget-tiltle">&nbsp;</h6>
                             <p>By subscribing to our mailing list you will always be update with the latest news from
@@ -574,7 +514,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-4">
                         <div class="single-widget twitter-widget" data-aos="fade-up" data-aos-delay="200">
                             <h6 class="widget-tiltle">Fresh Tweets</h6>
                             <div class="media">
@@ -608,44 +548,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-xl-3">
-                        <div class="single-widget recent-post-widget" data-aos="fade-up" data-aos-delay="400">
-                            <h6 class="widget-tiltle">Latest Updates</h6>
-                            <div class="media">
-                                <a class="rcnt-img" href="#"><img src="assets/images/rcnt-post1.png"
-                                        alt="Recent Post"></a>
-                                <div class="media-body ml-3">
-                                    <h6><a href="#">An engaging</a></h6>
-                                    <p><i class="fa fa-user"></i>Mano <i class="fa fa-eye"></i> 202 Views</p>
-                                </div>
-                            </div>
-                            <div class="media">
-                                <a class="rcnt-img" href="#"><img src="assets/images/rcnt-post2.png"
-                                        alt="Recent Post"></a>
-                                <div class="media-body ml-3">
-                                    <h6><a href="#">Statistics and analysis. The key to succes.</a></h6>
-                                    <p><i class="fa fa-user"></i>Rosias <i class="fa fa-eye"></i> 20 Views</p>
-                                </div>
-                            </div>
-                            <div class="media">
-                                <a class="rcnt-img" href="#"><img src="assets/images/rcnt-post3.png"
-                                        alt="Recent Post"></a>
-                                <div class="media-body ml-3">
-                                    <h6><a href="#">Envato Meeting turns into a photoshooting.</a></h6>
-                                    <p><i class="fa fa-user"></i>Kien <i class="fa fa-eye"></i> 74 Views</p>
-                                </div>
-                            </div>
-                            <div class="media">
-                                <a class="rcnt-img" href="#"><img src="assets/images/rcnt-post4.png"
-                                        alt="Recent Post"></a>
-                                <div class="media-body ml-3">
-                                    <h6><a href="#">An engaging embedded the video posts</a></h6>
-                                    <p><i class="fa fa-user"></i>Robert <i class="fa fa-eye"></i> 48 Views</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-4">
                         <div class="single-widget tags-widget" data-aos="fade-up" data-aos-delay="800">
                             <h6 class="widget-tiltle">Popular Tags</h6>
                             <a href="#">Amazing</a>
@@ -654,27 +557,6 @@
                             <a href="#">Art</a>
                             <a href="#">Wordpress</a>
                             <a href="#">jQuery</a>
-                        </div>
-                        <div class="single-widget subscribe-widget" data-aos="fade-up" data-aos-delay="800">
-                            <h6 class="widget-tiltle">Subscribe us</h6>
-                            <p>Sign up for our mailing list to get latest updates and offers</p>
-                            <form class="" method="get">
-                                <div class="input-group">
-                                    <input class="field form-control" name="subscribe" type="email"
-                                        placeholder="Email Address">
-                                    <span class="input-group-btn">
-                                        <button type="submit" name="submit-mail"><i class="fa fa-check"></i></button>
-                                    </span>
-                                </div>
-                            </form>
-                            <p>We respect your privacy</p>
-                            <ul class="nav social-nav">
-                                <li><a href="https://www.facebook.com/fh5co" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
                         </div>
                     </div>
                 </div>
@@ -686,7 +568,7 @@
             <div class="container">
                 <div
                     class="footer-content text-center text-lg-left d-lg-flex justify-content-between align-items-center">
-                    <p class="mb-0" data-aos="fade-right" data-aos-offset="0">&copy; 2019 All Rights Reserved. Design by <a href="https://freehtml5.co/multipurpose" target="_blank" class="fh5-link">FreeHTML5.co</a>.</p>
+                    <p class="mb-0" data-aos="fade-right" data-aos-offset="0">&copy; 2021 All Rights Reserved. Design by <a href="https://freehtml5.co/multipurpose" target="_blank" class="fh5-link">FreeHTML5.co</a>.</p>
                     <p class="mb-0" data-aos="fade-left" data-aos-offset="0"><a href="#">Terms Of Use</a><a
                             href="#">Privacy & Security
                             Statement</a></p>
