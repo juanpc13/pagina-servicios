@@ -4,9 +4,9 @@
 Website de Reservas
 
 ## Integrantes:
-Juan Carlos Pleitez Cortez
-Neftali Andrés Molina Santos
-Andrea Alejandra Cuéllar Chávez
+### Juan Carlos Pleitez Cortez
+### Neftali Andrés Molina Santos
+### Andrea Alejandra Cuéllar Chávez
 
 ### CREDITS:
 DESIGNED & DEVELOPED by FreeHTML5.co
